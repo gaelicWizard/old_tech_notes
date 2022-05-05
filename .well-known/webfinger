@@ -11,7 +11,7 @@
 	"links" : [{
 		"rel" : "self",
 		"type" : "application/activity+json",
-		"href" : "https://jdp.cx/activitypub"
+		"href" : "https://gaelicWizard.net/activitypub/john"
 	},
 	{
 		"rel" : "http://openid.net/specs/connect/1.0/issuer",
