@@ -1,0 +1,562 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "John's Jottings",
+	"icon": "https://micro.blog/gaelicWizard/avatar.jpg",
+	"home_page_url": "https://gaelicwizard.me/",
+	"feed_url": "https://gaelicwizard.me/feed.json",
+	"items": [
+		
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/10/172910.html",
+				
+				"content_html": "<p><a href=\"https://www.rollingstone.com/politics/politics-news/trump-hurricane-gun-china-world-war-1350638/\">www.rollingstone.com/politics/&hellip;</a></p>\n",
+				"content_text": "[www.rollingstone.com/politics/...](https://www.rollingstone.com/politics/politics-news/trump-hurricane-gun-china-world-war-1350638/)\n",
+				"date_published": "2022-05-10T17:29:10-07:00",
+				"url": "https://gaelicwizard.me/2022/05/10/172910.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/09/less-of-this.html",
+				
+				"content_html": "<p><a href=\"https://www.washingtonpost.com/nation/2019/05/04/mentally-ill-woman-gives-birth-alone-broward-county-jail-attorney-says/\">Less of this, pls</a>.</p>\n",
+				"content_text": "[Less of this, pls]( https://www.washingtonpost.com/nation/2019/05/04/mentally-ill-woman-gives-birth-alone-broward-county-jail-attorney-says/ ).\n",
+				"date_published": "2022-05-09T17:40:59-07:00",
+				"url": "https://gaelicwizard.me/2022/05/09/less-of-this.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/09/more-of-this.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/Catfish_Man/status/1523742801220956160\">More of this, pls</a>.</p>\n",
+				"content_text": "[More of this, pls](https://twitter.com/Catfish_Man/status/1523742801220956160).\n",
+				"date_published": "2022-05-09T17:38:05-07:00",
+				"url": "https://gaelicwizard.me/2022/05/09/more-of-this.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/07/trevor-noah-on.html",
+				
+				"content_html": "<p>: Trevor Noah on taxes and billionaires</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": ": Trevor Noah on taxes and billionaires\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://gaelicwizard.me/uploads/2022/fc891f7aa0.mov\" preload=\"none\"></video>\n",
+				"date_published": "2022-05-07T12:22:16-07:00",
+				"url": "https://gaelicwizard.me/2022/05/07/trevor-noah-on.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/07/122107.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2022/a6677ce42b.jpg\" width=\"516\" height=\"500\" alt=\"\" />\n",
+				"date_published": "2022-05-07T12:21:07-07:00",
+				"url": "https://gaelicwizard.me/2022/05/07/122107.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/07/122048.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/0d432a352b.jpg\" width=\"600\" height=\"507\" alt=\"\" />\n",
+				"date_published": "2022-05-07T12:20:48-07:00",
+				"url": "https://gaelicwizard.me/2022/05/07/122048.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/06/how-was-this.html",
+				
+				"content_html": "<p>: <a href=\"https://www.nytimes.com/2022/05/05/us/politics/mark-esper-book.html\">How was this held for a book deal?</a></p>\n",
+				"content_text": ": [How was this held for a book deal?](https://www.nytimes.com/2022/05/05/us/politics/mark-esper-book.html)\n",
+				"date_published": "2022-05-06T10:14:58-07:00",
+				"url": "https://gaelicwizard.me/2022/05/06/how-was-this.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/05/scruffy-looking-nerf.html",
+				
+				"content_html": "<p>Scruffy looking nerf herder!</p>\n",
+				"content_text": "Scruffy looking nerf herder!\n",
+				"date_published": "2022-05-05T20:58:23-07:00",
+				"url": "https://gaelicwizard.me/2022/05/05/scruffy-looking-nerf.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/05/204331.html",
+				
+				"content_html": "<p>In reply to <!-- raw HTML omitted -->micro.blog/account/p&hellip;<!-- raw HTML omitted --></p>\n<p>Goodnight Moon</p>\n",
+				"content_text": "In reply to <a href=\"https://micro.blog/account/posts/67465/preview/1563563\" class=\"u-in-reply-to\">micro.blog/account/p...</a>\n\nGoodnight Moon\n",
+				"date_published": "2022-05-05T20:43:31-07:00",
+				"url": "https://gaelicwizard.me/2022/05/05/204331.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/05/in-reply-to.html",
+				
+				"content_html": "<p>In reply to <!-- raw HTML omitted -->micro.blog/account/p&hellip;<!-- raw HTML omitted --></p>\n<p>Hello World</p>\n",
+				"content_text": "In reply to <a href=\"https://micro.blog/account/posts/67465/preview/1563563\" class=\"u-in-reply-to\">micro.blog/account/p...</a>\n\nHello World\n",
+				"date_published": "2022-05-05T20:42:43-07:00",
+				"url": "https://gaelicwizard.me/2022/05/05/in-reply-to.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/05/hello-world.html",
+				
+				"content_html": "<p>Hello World</p>\n",
+				"content_text": "Hello World\n",
+				"date_published": "2022-05-05T20:41:35-07:00",
+				"url": "https://gaelicwizard.me/2022/05/05/hello-world.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/05/meanwhile-florida.html",
+				
+				"content_html": "<p>: <a href=\"https://trib.al/REDK64l\">Meanwhile, Florida</a></p>\n",
+				"content_text": ": [Meanwhile, Florida](https://trib.al/REDK64l)\n",
+				"date_published": "2022-05-05T18:42:04-07:00",
+				"url": "https://gaelicwizard.me/2022/05/05/meanwhile-florida.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/05/we-learned-nothing.html",
+				
+				"content_html": "<p>: <a href=\"https://www.rollingstone.com/culture/culture-features/covid-19-million-dead-americans-1344894/\">We learned nothing</a></p>\n",
+				"content_text": ": [We learned nothing](https://www.rollingstone.com/culture/culture-features/covid-19-million-dead-americans-1344894/)\n",
+				"date_published": "2022-05-05T14:05:30-07:00",
+				"url": "https://gaelicwizard.me/2022/05/05/we-learned-nothing.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/05/deforestation.html",
+				
+				"content_html": "<p>: <a href=\"https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php\">Deforestation</a></p>\n",
+				"content_text": ": [Deforestation](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)\n",
+				"date_published": "2022-05-05T14:02:44-07:00",
+				"url": "https://gaelicwizard.me/2022/05/05/deforestation.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/04/on-western-media.html",
+				
+				"content_html": "<p>: <a href=\"https://twitter.com/kamilkazani/status/1521873030259032069\">On western media covering Russian politics</a></p>\n",
+				"content_text": ": [On western media covering Russian politics](https://twitter.com/kamilkazani/status/1521873030259032069)\n",
+				"date_published": "2022-05-04T10:24:50-07:00",
+				"url": "https://gaelicwizard.me/2022/05/04/on-western-media.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/04/072428.html",
+				
+				"content_html": "<p>:</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": ":\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://gaelicwizard.me/uploads/2022/68b227b806.mov\" preload=\"none\"></video>\n",
+				"date_published": "2022-05-04T07:24:28-07:00",
+				"url": "https://gaelicwizard.me/2022/05/04/072428.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/04/i-thought-this.html",
+				
+				"content_html": "<p>…I thought this was a joke at first…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "…I thought this was a joke at first…\n\n<img src=\"https://gaelicwizard.me/uploads/2022/94a773ba29.jpg\" width=\"471\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-04T07:12:54-07:00",
+				"url": "https://gaelicwizard.me/2022/05/04/i-thought-this.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/03/basic-guidelines-for.html",
+				
+				"content_html": "<p><a href=\"https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters\">Basic guidelines for safety at protests</a></p>\n",
+				"content_text": "[Basic guidelines for safety at protests](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)\n",
+				"date_published": "2022-05-03T15:00:09-07:00",
+				"url": "https://gaelicwizard.me/2022/05/03/basic-guidelines-for.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/03/also-true.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/BigZaphod/status/1521550658289246215\">also true</a></p>\n",
+				"content_text": " [also true](https://twitter.com/BigZaphod/status/1521550658289246215)\n",
+				"date_published": "2022-05-03T11:06:08-07:00",
+				"url": "https://gaelicwizard.me/2022/05/03/also-true.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/03/the-women-of.html",
+				
+				"content_html": "<p>: <a href=\"https://www.feministgiant.com/p/essay-the-terrorist-the-attorney?s=w\">The women of the Christian Brotherhood who destroyed Roe v Wade and helped build a theocracy</a></p>\n",
+				"content_text": ": [The women of the Christian Brotherhood who destroyed Roe v Wade and helped build a theocracy](https://www.feministgiant.com/p/essay-the-terrorist-the-attorney?s=w)\n",
+				"date_published": "2022-05-03T09:54:31-07:00",
+				"url": "https://gaelicwizard.me/2022/05/03/the-women-of.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/03/093825.html",
+				
+				"content_html": "<p><!-- raw HTML omitted -->George Carlin explaining that “pro-life” is just a euphemism for “anti-women”.<!-- raw HTML omitted --></p>\n",
+				"content_text": "<video src=\"https://gaelicwizard.me/uploads/2022/0d519bd9ad.mov\">George Carlin explaining that “pro-life” is just a euphemism for “anti-women”.</video>\n",
+				"date_published": "2022-05-03T09:38:25-07:00",
+				"url": "https://gaelicwizard.me/2022/05/03/093825.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/03/its-not-about.html",
+				
+				"content_html": "<p>It’s not about the fetus at all.  <a href=\"https://twitter.com/NovallSwift/status/1521358929980051458\">this is the point.</a></p>\n",
+				"content_text": "It’s not about the fetus at all.  [this is the point.](https://twitter.com/NovallSwift/status/1521358929980051458)\n",
+				"date_published": "2022-05-03T09:34:52-07:00",
+				"url": "https://gaelicwizard.me/2022/05/03/its-not-about.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/03/fascinating.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/daveg/status/1521068184547303425\">fascinating</a></p>\n",
+				"content_text": " [fascinating](https://twitter.com/daveg/status/1521068184547303425)\n",
+				"date_published": "2022-05-03T09:31:32-07:00",
+				"url": "https://gaelicwizard.me/2022/05/03/fascinating.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/03/065724.html",
+				
+				"content_html": "<p><a href=\"https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473\">😑</a></p>\n",
+				"content_text": "[😑](https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473)\n",
+				"date_published": "2022-05-03T06:57:24-07:00",
+				"url": "https://gaelicwizard.me/2022/05/03/065724.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/02/john-deere-drm.html",
+				
+				"content_html": "<p><a href=\"https://www.cnn.com/2022/05/01/europe/russia-farm-vehicles-ukraine-disabled-melitopol-intl/index.html\">John Deere DRM makes stolen tractors useless</a></p>\n",
+				"content_text": "[John Deere DRM makes stolen tractors useless](https://www.cnn.com/2022/05/01/europe/russia-farm-vehicles-ukraine-disabled-melitopol-intl/index.html)\n",
+				"date_published": "2022-05-02T11:13:37-07:00",
+				"url": "https://gaelicwizard.me/2022/05/02/john-deere-drm.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/02/neat-discussion-about.html",
+				
+				"content_html": "<p>: <a href=\"https://overcast.fm/+TRbUZjKJ4\">neat discussion about the early open web and owning your identity</a></p>\n",
+				"content_text": ": [neat discussion about the early open web and owning your identity]( https://overcast.fm/+TRbUZjKJ4 )\n",
+				"date_published": "2022-05-02T09:58:13-07:00",
+				"url": "https://gaelicwizard.me/2022/05/02/neat-discussion-about.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/02/064158.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/4a8da8a965.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-02T06:41:58-07:00",
+				"url": "https://gaelicwizard.me/2022/05/02/064158.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/02/burn-them.html",
+				
+				"content_html": "<p><a href=\"https://www.tennessean.com/story/news/politics/2022/04/27/jerry-sexton-burn-books-tennessee-school-library-bill-debate/9554117002/\">burn them.</a></p>\n",
+				"content_text": "[burn them.](https://www.tennessean.com/story/news/politics/2022/04/27/jerry-sexton-burn-books-tennessee-school-library-bill-debate/9554117002/)\n",
+				"date_published": "2022-05-02T06:31:32-07:00",
+				"url": "https://gaelicwizard.me/2022/05/02/burn-them.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/01/when-will-this.html",
+				
+				"content_html": "<p><a href=\"https://trib.al/jf8IlGP\">when will this end.</a></p>\n",
+				"content_text": "[when will this end.](https://trib.al/jf8IlGP)\n",
+				"date_published": "2022-05-01T19:38:56-07:00",
+				"url": "https://gaelicwizard.me/2022/05/01/when-will-this.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/01/141059.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<video src=\"https://gaelicwizard.me/uploads/2022/f36053de7a.mov\" />\n",
+				"date_published": "2022-05-01T14:10:59-07:00",
+				"url": "https://gaelicwizard.me/2022/05/01/141059.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/01/133526.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/31975688a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-01T13:35:26-07:00",
+				"url": "https://gaelicwizard.me/2022/05/01/133526.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/01/133204.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/07803ea8f2.jpg\" width=\"525\" height=\"525\" alt=\"\" />\n",
+				"date_published": "2022-05-01T13:32:04-07:00",
+				"url": "https://gaelicwizard.me/2022/05/01/133204.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/01/httpstwittercomsunnyeatonstatus.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/SunnyEaton/status/1520265526446067717\">twitter.com/SunnyEato&hellip;</a></p>\n",
+				"content_text": "[twitter.com/SunnyEato...](https://twitter.com/SunnyEaton/status/1520265526446067717)\n",
+				"date_published": "2022-05-01T13:28:55-07:00",
+				"url": "https://gaelicwizard.me/2022/05/01/httpstwittercomsunnyeatonstatus.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/05/01/httpwwwsscnetuclaeducommmalamuthpdfarsrpdf.html",
+				
+				"content_html": "<p><a href=\"http://www.sscnet.ucla.edu/comm/malamuth/pdf/00arsr11.pdf\">www.sscnet.ucla.edu/comm/mala&hellip;</a></p>\n",
+				"content_text": "[www.sscnet.ucla.edu/comm/mala...](http://www.sscnet.ucla.edu/comm/malamuth/pdf/00arsr11.pdf)\n",
+				"date_published": "2022-05-01T07:33:20-07:00",
+				"url": "https://gaelicwizard.me/2022/05/01/httpwwwsscnetuclaeducommmalamuthpdfarsrpdf.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/30/091436.html",
+				
+				"content_html": "<p><a href=\"https://www.washingtonpost.com/world/2022/04/28/ukrainian-attacks-bring-war-home-russia-fraying-civilian-nerves/\">www.washingtonpost.com/world/202&hellip;</a></p>\n",
+				"content_text": "[www.washingtonpost.com/world/202...](https://www.washingtonpost.com/world/2022/04/28/ukrainian-attacks-bring-war-home-russia-fraying-civilian-nerves/)\n",
+				"date_published": "2022-04-30T09:14:36-07:00",
+				"url": "https://gaelicwizard.me/2022/04/30/091436.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/29/til-twitter-has.html",
+				
+				"content_html": "<p>Twitter has a Federverse project… #TIL <a href=\"https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol\">Bluesky</a></p>\n",
+				"content_text": "Twitter has a Federverse project… #TIL [Bluesky](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)\n",
+				"date_published": "2022-04-29T19:14:00-07:00",
+				"url": "https://gaelicwizard.me/2022/04/29/til-twitter-has.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/29/181057.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/FiloSottile/status/1519851880666517506\">twitter.com/FiloSotti&hellip;</a>\n<a href=\"https://twitter.com/bchesky/status/1519831793687441408\">twitter.com/bchesky/s&hellip;</a></p>\n",
+				"content_text": "[twitter.com/FiloSotti...](https://twitter.com/FiloSottile/status/1519851880666517506)\n[twitter.com/bchesky/s...](https://twitter.com/bchesky/status/1519831793687441408)\n",
+				"date_published": "2022-04-29T18:10:57-07:00",
+				"url": "https://gaelicwizard.me/2022/04/29/181057.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/29/stop-before-you.html",
+				
+				"content_html": "<p><a href=\"https://www.zerohedge.com/personal-finance/fk-you-money\">Stop before you become miserable</a></p>\n",
+				"content_text": " [Stop before you become miserable](https://www.zerohedge.com/personal-finance/fk-you-money)\n",
+				"date_published": "2022-04-29T15:57:59-07:00",
+				"url": "https://gaelicwizard.me/2022/04/29/stop-before-you.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/29/german-energy-firm.html",
+				
+				"content_html": "<p>! <a href=\"https://www.bbc.com/news/business-61257846\">German energy firm Uniper ready to meet Russian pay demand</a></p>\n",
+				"content_text": "! [German energy firm Uniper ready to meet Russian pay demand](https://www.bbc.com/news/business-61257846)\n",
+				"date_published": "2022-04-29T15:48:40-07:00",
+				"url": "https://gaelicwizard.me/2022/04/29/german-energy-firm.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/29/153026.html",
+				
+				"content_html": "<p><a href=\"https://wgntv.com/news/trending/colorado-wolf-sighting-turns-out-to-be-pack-of-saint-bernard-dogs/\">wgntv.com/news/tren&hellip;</a></p>\n",
+				"content_text": "[wgntv.com/news/tren...](https://wgntv.com/news/trending/colorado-wolf-sighting-turns-out-to-be-pack-of-saint-bernard-dogs/)\n",
+				"date_published": "2022-04-29T15:30:26-07:00",
+				"url": "https://gaelicwizard.me/2022/04/29/153026.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/29/083101.html",
+				
+				"content_html": "<p><a href=\"https://www.ndtv.com/world-news/france-cable-attacks-france-internet-outage-internet-outages-in-several-french-cities-after-cable-attacks-report-2925402\">www.ndtv.com/world-new&hellip;</a></p>\n<p><a href=\"https://arstechnica.com/tech-policy/2015/06/fbi-baffled-over-wave-of-nighttime-fiber-optic-cable-vandalism/\">Previously</a>.</p>\n",
+				"content_text": "[www.ndtv.com/world-new...](https://www.ndtv.com/world-news/france-cable-attacks-france-internet-outage-internet-outages-in-several-french-cities-after-cable-attacks-report-2925402)\n\n[Previously](https://arstechnica.com/tech-policy/2015/06/fbi-baffled-over-wave-of-nighttime-fiber-optic-cable-vandalism/).\n",
+				"date_published": "2022-04-29T08:31:01-07:00",
+				"url": "https://gaelicwizard.me/2022/04/29/083101.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/29/tweet-usermalwaretechblog-id.html",
+				
+				"content_html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">It blows my mind that not only are these real people but the people in charge of making laws</p>&mdash; Marcus Hutchins (@MalwareTechBlog) <a href=\"https://twitter.com/MalwareTechBlog/status/1519718869677445120?ref_src=twsrc%5Etfw\">April 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_text": "{{< tweet user=\"MalwareTechBlog\" id=\"1519718869677445120\" >}}\n",
+				"date_published": "2022-04-29T08:06:24-07:00",
+				"url": "https://gaelicwizard.me/2022/04/29/tweet-usermalwaretechblog-id.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/29/tweet-userbubbaprog-id.html",
+				
+				"content_html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">So this hoax has long been debunked. Republicans are now clearly spreading it with full knowledge that it&#39;s a hoax. <a href=\"https://t.co/mH7GYkXDU0\">https://t.co/mH7GYkXDU0</a></p>&mdash; Timothy Burke (@bubbaprog) <a href=\"https://twitter.com/bubbaprog/status/1519717242597949440?ref_src=twsrc%5Etfw\">April 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_text": "{{< tweet user=\"bubbaprog\" id=\"1519717242597949440\" >}}\n",
+				"date_published": "2022-04-29T08:03:58-07:00",
+				"url": "https://gaelicwizard.me/2022/04/29/tweet-userbubbaprog-id.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/29/httpstwittercomheartlandsignalstatus.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/HeartlandSignal/status/1519716100367429639\">twitter.com/Heartland&hellip;</a></p>\n",
+				"content_text": "[twitter.com/Heartland...](https://twitter.com/HeartlandSignal/status/1519716100367429639)\n",
+				"date_published": "2022-04-29T08:02:07-07:00",
+				"url": "https://gaelicwizard.me/2022/04/29/httpstwittercomheartlandsignalstatus.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/28/httpstwittercomsuryamattustatus.html",
+				
+				"content_html": "<p><a href=\"https://themarkup.org/pixel-hunt/2022/04/28/applied-for-student-aid-online-facebook-saw-you\">https://twitter.com/suryamattu/status/1519649502025682944</a></p>\n",
+				"content_text": "[https://twitter.com/suryamattu/status/1519649502025682944]( https://themarkup.org/pixel-hunt/2022/04/28/applied-for-student-aid-online-facebook-saw-you )\n",
+				"date_published": "2022-04-28T20:49:33-07:00",
+				"url": "https://gaelicwizard.me/2022/04/28/httpstwittercomsuryamattustatus.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/28/dont-say-gay.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/us-news/2022/apr/28/lgbtq-rights-us-dont-say-gay\">Don&rsquo;t Say Gay</a></p>\n",
+				"content_text": "[Don't Say Gay](https://www.theguardian.com/us-news/2022/apr/28/lgbtq-rights-us-dont-say-gay)\n",
+				"date_published": "2022-04-28T18:55:54-07:00",
+				"url": "https://gaelicwizard.me/2022/04/28/dont-say-gay.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/28/httpspopularinfopmajorcorporationsquietlyfunnel.html",
+				
+				"content_html": "<p><a href=\"https://popular.info/p/major-corporations-quietly-funnel\">popular.info/p/major-c&hellip;</a></p>\n",
+				"content_text": "[popular.info/p/major-c...](https://popular.info/p/major-corporations-quietly-funnel)\n",
+				"date_published": "2022-04-28T18:54:46-07:00",
+				"url": "https://gaelicwizard.me/2022/04/28/httpspopularinfopmajorcorporationsquietlyfunnel.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/28/mastodon-is-dead.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/hackernoon/mastodon-is-dead-in-the-water-888c10e8abb1\">Mastodon is dead in the water. | by John Henry | HackerNoon.com</a></p>\n",
+				"content_text": "[Mastodon is dead in the water. | by John Henry | HackerNoon.com](https://medium.com/hackernoon/mastodon-is-dead-in-the-water-888c10e8abb1)\n",
+				"date_published": "2022-04-28T17:24:07-07:00",
+				"url": "https://gaelicwizard.me/2022/04/28/mastodon-is-dead.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/28/133020.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2022/04/27/us/politics/democrats-mallory-mcmorrow-cultural-issues.html\">…</a></p>\n",
+				"content_text": "[…](https://www.nytimes.com/2022/04/27/us/politics/democrats-mallory-mcmorrow-cultural-issues.html)\n",
+				"date_published": "2022-04-28T13:30:20-07:00",
+				"url": "https://gaelicwizard.me/2022/04/28/133020.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/28/101823.html",
+				
+				"content_html": "<p><img src=\"https://gaelicwizard.me/uploads/2022/465b2899f8.jpg\" alt=\"0EFE6181-7D4D-4F00-9C26-2A2EAA17D5DD.jpg\"></p>\n",
+				"content_text": "\n![0EFE6181-7D4D-4F00-9C26-2A2EAA17D5DD.jpg](https://gaelicwizard.me/uploads/2022/465b2899f8.jpg)\n",
+				"date_published": "2022-04-28T10:18:23-07:00",
+				"url": "https://gaelicwizard.me/2022/04/28/101823.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/28/101408.html",
+				
+				"content_html": "<p><a href=\"http://apne.ws/PSHJvdx\">Moderna for Kids</a></p>\n",
+				"content_text": "[Moderna for Kids](http://apne.ws/PSHJvdx)\n",
+				"date_published": "2022-04-28T10:14:08-07:00",
+				"url": "https://gaelicwizard.me/2022/04/28/101408.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/it-was-a.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/elonmusk/status/1519480761749016577\">It was a joke the whole time.</a></p>\n",
+				"content_text": "[It was a joke the whole time.](https://twitter.com/elonmusk/status/1519480761749016577)\n",
+				"date_published": "2022-04-27T19:28:24-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/it-was-a.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/190018.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/afac667ccb.jpg\" width=\"577\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-27T19:00:18-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/190018.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/too-late-damage.html",
+				
+				"content_html": "<p><a href=\"https://www.reuters.com/breakingviews/elon-musk-probably-wont-buy-twitter-2022-04-27/\">Too late; damage done.</a></p>\n",
+				"content_text": "[Too late; damage done.](https://www.reuters.com/breakingviews/elon-musk-probably-wont-buy-twitter-2022-04-27/)\n",
+				"date_published": "2022-04-27T18:20:28-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/too-late-damage.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/httpstwittercombenedictevansstatus.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/benedictevans/status/1519119429321342978\">twitter.com/benedicte&hellip;</a></p>\n",
+				"content_text": "[twitter.com/benedicte...](https://twitter.com/benedictevans/status/1519119429321342978)\n",
+				"date_published": "2022-04-27T17:31:47-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/httpstwittercombenedictevansstatus.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/172532.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/91f8b0dd64.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-27T17:25:32-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/172532.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/172513.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/2ffb293a92.jpg\" width=\"591\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-27T17:25:13-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/172513.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/172505.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/219f071627.jpg\" width=\"600\" height=\"365\" alt=\"\" />\n",
+				"date_published": "2022-04-27T17:25:05-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/172505.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/why-the-past.html",
+				
+				"content_html": "<p><a href=\"https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/\">Why the past ten years of American life have been uniquely stupid</a></p>\n",
+				"content_text": "[Why the past ten years of American life have been uniquely stupid]( https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/ )\n",
+				"date_published": "2022-04-27T12:31:23-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/why-the-past.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/123015.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/f6c4b05b66.jpg\" width=\"600\" height=\"266\" alt=\"\" />\n",
+				"date_published": "2022-04-27T12:30:15-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/123015.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/elon-the-sink.html",
+				
+				"content_html": "<p>elon: the sink is small and weird. you should be able to fix your sink the eay you want! \n<em>buys sink</em>\nresult:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "elon: the sink is small and weird. you should be able to fix your sink the eay you want! \r\n*buys sink*\r\nresult:\n\n<img src=\"https://gaelicwizard.me/uploads/2022/3ac7c7ec11.jpg\" width=\"600\" height=\"461\" alt=\"\" />\n",
+				"date_published": "2022-04-27T12:29:08-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/elon-the-sink.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/httpstribmnvcxi.html",
+				
+				"content_html": "<p><a href=\"http://strib.mn/38vcXi7\">strib.mn/38vcXi7</a></p>\n",
+				"content_text": "[strib.mn/38vcXi7](http://strib.mn/38vcXi7)\n",
+				"date_published": "2022-04-27T12:23:03-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/httpstribmnvcxi.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/121705.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/3f5030cae5.png\" width=\"548\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-27T12:17:05-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/121705.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/on-recycling.html",
+				
+				"content_html": "<p><a href=\"https://pluralistic.net/2022/04/26/plastic-fatalistic/#recycled-lies\">On Recycling</a>!</p>\n",
+				"content_text": "[On Recycling]( https://pluralistic.net/2022/04/26/plastic-fatalistic/#recycled-lies )!\n",
+				"date_published": "2022-04-27T12:16:04-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/on-recycling.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/121417.html",
+				
+				"content_html": "<p><a href=\"https://news.microsoft.com/features/unique-job-site-can-help-neurodivergent-people-find-meaningful-work-while-being-themselves/\">news.microsoft.com/features/&hellip;</a></p>\n",
+				"content_text": "[news.microsoft.com/features/...](https://news.microsoft.com/features/unique-job-site-can-help-neurodivergent-people-find-meaningful-work-while-being-themselves/)\n",
+				"date_published": "2022-04-27T12:14:17-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/121417.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/121229.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/dab6daa2db.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-27T12:12:29-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/121229.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/27/i-have-actually.html",
+				
+				"content_html": "<p>I have actually physically purchased (paid for and shipped and received and love) an actual product from a TikTok ad. Twice. I cannot at this moment recall a single instance of buying from an internet ad since I was born.\n<a href=\"https://twitter.com/BenBajarin/status/1519325401578831872\">twitter.com/BenBajari&hellip;</a></p>\n",
+				"content_text": "I have actually physically purchased (paid for and shipped and received and love) an actual product from a TikTok ad. Twice. I cannot at this moment recall a single instance of buying from an internet ad since I was born.\r\n[twitter.com/BenBajari...](https://twitter.com/BenBajarin/status/1519325401578831872)\n",
+				"date_published": "2022-04-27T11:51:28-07:00",
+				"url": "https://gaelicwizard.me/2022/04/27/i-have-actually.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/26/114243.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://gaelicWizard.micro.blog/uploads/2022/e85789cf04.jpg\" width=\"516\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-26T11:42:43-07:00",
+				"url": "https://gaelicwizard.me/2022/04/26/114243.html"
+			},
+			{
+				"id": "http://gaelicWizard.micro.blog/2022/04/26/so-elon-bought.html",
+				
+				"content_html": "<p>&hellip;so Elon bought Twitter.</p>\n",
+				"content_text": "...so Elon bought Twitter. \n",
+				"date_published": "2022-04-26T11:40:13-07:00",
+				"url": "https://gaelicwizard.me/2022/04/26/so-elon-bought.html"
+			}
+	]
+}
