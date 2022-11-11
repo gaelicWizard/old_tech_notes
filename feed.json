@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://gaelicwizard.micro.blog/2022/11/08/our-whole-stupid.html",
+				
+				"content_html": "<p><a href=\"https://tanag.substack.com/p/our-whole-stupid-discourseliberal\">Our whole stupid discourse—liberal and conservative—summed up in one Fox News clip.</a></p>\n",
+				"content_text": "[Our whole stupid discourse—liberal and conservative—summed up in one Fox News clip.]( https://tanag.substack.com/p/our-whole-stupid-discourseliberal )\n",
+				"date_published": "2022-11-08T20:35:35-07:00",
+				"url": "https://gaelicwizard.me/2022/11/08/our-whole-stupid.html"
+			},
+			{
+				"id": "http://gaelicwizard.micro.blog/2022/11/08/150308.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2022/9149f221aa.jpg\" width=\"600\" height=\"409\" alt=\"\">\n",
+				"date_published": "2022-11-08T15:03:08-07:00",
+				"url": "https://gaelicwizard.me/2022/11/08/150308.html"
+			},
+			{
 				"id": "http://gaelicwizard.micro.blog/2022/11/01/i-desperately-need.html",
 				
 				"content_html": "<p>I desperately need a Tweetbot for ActivityPub.</p>\n<p>No, not for mastodon. I don’t use mastodon, and mastodon does <em>not</em> implement ActivityPub Client, only (mostly) ActivityPub Server. I’ll write my own ActivityPub-supporting microblog before I install a mastodon instance.</p>\n",
@@ -50,7 +66,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/07/122107.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/a6677ce42b.jpg\" width=\"516\" height=\"500\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/a6677ce42b.jpg\" width=\"516\" height=\"500\" alt=\"\" />\n",
 				"date_published": "2022-05-07T12:21:07-07:00",
 				"url": "https://gaelicwizard.me/2022/05/07/122107.html"
 			},
@@ -58,7 +74,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/07/122048.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/0d432a352b.jpg\" width=\"600\" height=\"507\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/0d432a352b.jpg\" width=\"600\" height=\"507\" alt=\"\" />\n",
 				"date_published": "2022-05-07T12:20:48-07:00",
 				"url": "https://gaelicwizard.me/2022/05/07/122048.html"
 			},
@@ -146,7 +162,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/04/i-thought-this.html",
 				
 				"content_html": "<p>…I thought this was a joke at first…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "…I thought this was a joke at first…\n\n<img src=\"https://gaelicwizard.me/uploads/2022/94a773ba29.jpg\" width=\"471\" height=\"600\" alt=\"\" />\n",
+				"content_text": "…I thought this was a joke at first…\n\n<img src=\"uploads/2022/94a773ba29.jpg\" width=\"471\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-04T07:12:54-07:00",
 				"url": "https://gaelicwizard.me/2022/05/04/i-thought-this.html"
 			},
@@ -226,7 +242,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/02/064158.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/4a8da8a965.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/4a8da8a965.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-02T06:41:58-07:00",
 				"url": "https://gaelicwizard.me/2022/05/02/064158.html"
 			},
@@ -258,7 +274,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/01/133526.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/31975688a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/31975688a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-01T13:35:26-07:00",
 				"url": "https://gaelicwizard.me/2022/05/01/133526.html"
 			},
@@ -266,7 +282,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/01/133204.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/07803ea8f2.jpg\" width=\"525\" height=\"525\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/07803ea8f2.jpg\" width=\"525\" height=\"525\" alt=\"\" />\n",
 				"date_published": "2022-05-01T13:32:04-07:00",
 				"url": "https://gaelicwizard.me/2022/05/01/133204.html"
 			},
@@ -345,7 +361,7 @@
 			{
 				"id": "http://gaelicWizard.micro.blog/2022/04/29/tweet-usermalwaretechblog-id.html",
 				
-				"content_html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">It blows my mind that not only are these real people but the people in charge of making laws</p>&mdash; Marcus Hutchins (@MalwareTechBlog) <a href=\"https://twitter.com/MalwareTechBlog/status/1519718869677445120?ref_src=twsrc%5Etfw\">April 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">It blows my mind that not only are these real people but the people in charge of making laws</p>&mdash; malwaretech@infosec.exchange (@MalwareTechBlog) <a href=\"https://twitter.com/MalwareTechBlog/status/1519718869677445120?ref_src=twsrc%5Etfw\">April 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
 				"content_text": "{{< tweet user=\"MalwareTechBlog\" id=\"1519718869677445120\" >}}\n",
 				"date_published": "2022-04-29T08:06:24-07:00",
 				"url": "https://gaelicwizard.me/2022/04/29/tweet-usermalwaretechblog-id.html"
@@ -434,7 +450,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/190018.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/afac667ccb.jpg\" width=\"577\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/afac667ccb.jpg\" width=\"577\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T19:00:18-07:00",
 				"url": "https://gaelicwizard.me/2022/04/27/190018.html"
 			},
@@ -458,7 +474,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/172532.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/91f8b0dd64.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/91f8b0dd64.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T17:25:32-07:00",
 				"url": "https://gaelicwizard.me/2022/04/27/172532.html"
 			},
@@ -466,7 +482,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/172513.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/2ffb293a92.jpg\" width=\"591\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/2ffb293a92.jpg\" width=\"591\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T17:25:13-07:00",
 				"url": "https://gaelicwizard.me/2022/04/27/172513.html"
 			},
@@ -474,7 +490,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/172505.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/219f071627.jpg\" width=\"600\" height=\"365\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/219f071627.jpg\" width=\"600\" height=\"365\" alt=\"\" />\n",
 				"date_published": "2022-04-27T17:25:05-07:00",
 				"url": "https://gaelicwizard.me/2022/04/27/172505.html"
 			},
@@ -490,7 +506,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/123015.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/f6c4b05b66.jpg\" width=\"600\" height=\"266\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/f6c4b05b66.jpg\" width=\"600\" height=\"266\" alt=\"\" />\n",
 				"date_published": "2022-04-27T12:30:15-07:00",
 				"url": "https://gaelicwizard.me/2022/04/27/123015.html"
 			},
@@ -498,7 +514,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/elon-the-sink.html",
 				
 				"content_html": "<p>elon: the sink is small and weird. you should be able to fix your sink the eay you want! \n<em>buys sink</em>\nresult:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "elon: the sink is small and weird. you should be able to fix your sink the eay you want! \r\n*buys sink*\r\nresult:\n\n<img src=\"https://gaelicwizard.me/uploads/2022/3ac7c7ec11.jpg\" width=\"600\" height=\"461\" alt=\"\" />\n",
+				"content_text": "elon: the sink is small and weird. you should be able to fix your sink the eay you want! \r\n*buys sink*\r\nresult:\n\n<img src=\"uploads/2022/3ac7c7ec11.jpg\" width=\"600\" height=\"461\" alt=\"\" />\n",
 				"date_published": "2022-04-27T12:29:08-07:00",
 				"url": "https://gaelicwizard.me/2022/04/27/elon-the-sink.html"
 			},
@@ -514,7 +530,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/121705.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/3f5030cae5.png\" width=\"548\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/3f5030cae5.png\" width=\"548\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T12:17:05-07:00",
 				"url": "https://gaelicwizard.me/2022/04/27/121705.html"
 			},
@@ -538,7 +554,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/121229.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://gaelicwizard.me/uploads/2022/dab6daa2db.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/dab6daa2db.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T12:12:29-07:00",
 				"url": "https://gaelicwizard.me/2022/04/27/121229.html"
 			},
