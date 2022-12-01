@@ -7,10 +7,42 @@
 	"items": [
 		
 			{
-				"id": "http://gaelicwizard.micro.blog/2022/11/22/123454.html",
+				"id": "http://gaelicwizard.micro.blog/2022/11/30/164124.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/478f22b953.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"uploads/2022/9c419cee34.jpg\" width=\"600\" height=\"521\" alt=\"\">\n",
+				"date_published": "2022-11-30T16:41:24-08:00",
+				"url": "https://gaelicwizard.me/2022/11/30/164124.html"
+			},
+			{
+				"id": "http://gaelicwizard.micro.blog/2022/11/25/rt-alexblechman-programming.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/AlexBlechman/status/1595952463084929025\">RT @AlexBlechman</a>:</p>\n<blockquote>\n<p>Programming is chaotic magic. There are no rules. You ask a game dev “Can the player summon a giant demon that bursts from the ground in an explosion of lava?” and they’ll say “sure, that’s easy” and then you’ll ask “can the player wear a scarf?” and they’ll go “oof”</p>\n</blockquote>\n",
+				"content_text": "[RT @AlexBlechman]( https://twitter.com/AlexBlechman/status/1595952463084929025 ):\n> Programming is chaotic magic. There are no rules. You ask a game dev “Can the player summon a giant demon that bursts from the ground in an explosion of lava?” and they’ll say “sure, that’s easy” and then you’ll ask “can the player wear a scarf?” and they’ll go “oof”\n",
+				"date_published": "2022-11-25T12:18:04-08:00",
+				"url": "https://gaelicwizard.me/2022/11/25/rt-alexblechman-programming.html"
+			},
+			{
+				"id": "http://gaelicwizard.micro.blog/2022/11/25/i-dont-want.html",
+				
+				"content_html": "<p>I don’t want to host my own backend. And I definitely don’t want to host my own front end! Why does every service have to have an <em>angle</em>?! Why can’t someone make a simple status/microblog that does what it says, says what it does, and doesn’t try to be clever?</p>\n",
+				"content_text": "I don’t want to host my own backend. And I definitely don’t want to host my own front end! Why does every service have to have an *angle*?! Why can’t someone make a simple status/microblog that does what it says, says what it does, and doesn’t try to be clever?\n",
+				"date_published": "2022-11-25T11:17:00-08:00",
+				"url": "https://gaelicwizard.me/2022/11/25/i-dont-want.html"
+			},
+			{
+				"id": "http://gaelicwizard.micro.blog/2022/11/23/121249.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2022/1fba226885.jpg\" width=\"515\" height=\"600\" alt=\"Libraries will get you through times without money better than money will get you through times with no libraries. — Anne Herbert\">\n",
+				"date_published": "2022-11-23T12:12:49-08:00",
+				"url": "https://gaelicwizard.me/2022/11/23/121249.html"
+			},
+			{
+				"id": "http://gaelicwizard.micro.blog/2022/11/22/123454.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"uploads/2022/478f22b953.jpg\" width=\"600\" height=\"600\" alt=\"Green fox: Please respect my boundaries and be nicer to me, or you won’t see me again. \nGrey foxes: Stop making such childish and unreasonable demands.\nGreen fox, walking away: Okay. \nGrey foxes: Hey!\nGreen fox with blue fox; …And green fox lived happily ever after with people who don’t think that’s unreasonable. \">\n",
 				"date_published": "2022-11-22T12:34:54-08:00",
 				"url": "https://gaelicwizard.me/2022/11/22/123454.html"
 			},
