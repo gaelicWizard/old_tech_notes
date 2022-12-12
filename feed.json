@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://gaelicwizard.micro.blog/2022/12/08/152954.html",
+				
+				"content_html": "<p><a href=\"https://kyivindependent.com/opinion/editorial-why-we-choose-to-publish-stories-about-misconduct-in-ukrainian-military\">kyivindependent.com/opinion/e&hellip;</a></p>\n",
+				"content_text": "[kyivindependent.com/opinion/e...](https://kyivindependent.com/opinion/editorial-why-we-choose-to-publish-stories-about-misconduct-in-ukrainian-military)\n",
+				"date_published": "2022-12-08T15:29:54-08:00",
+				"url": "https://gaelicwizard.me/2022/12/08/152954.html"
+			},
+			{
+				"id": "http://gaelicwizard.micro.blog/2022/12/08/have-disabled-siri.html",
+				
+				"content_html": "<p>have disabled Siri on my iPhone and Watch due to changes iOS 16. Apple won’t notice me, but there will come a tipping point when Apple will be unable to recover.</p>\n",
+				"content_text": "have disabled Siri on my iPhone and Watch due to changes iOS 16. Apple won’t notice me, but there will come a tipping point when Apple will be unable to recover. \n",
+				"date_published": "2022-12-08T15:24:32-08:00",
+				"url": "https://gaelicwizard.me/2022/12/08/have-disabled-siri.html"
+			},
+			{
 				"id": "http://gaelicwizard.micro.blog/2022/12/04/like-every-opensource.html",
 				
 				"content_html": "<p>:\nLike every open-source project, mastodon is not built for actual people.</p>\n<p>Exhibit 2658: there’s no way to merge/hide cross-posted material.</p>\n",
