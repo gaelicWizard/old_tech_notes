@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://gaelicwizard.micro.blog/2023/03/21/got-the-job.html",
+				
+				"content_html": "<p>got the job.</p>\n",
+				"content_text": "got the job. \n",
+				"date_published": "2023-03-21T18:46:22-08:00",
+				"url": "https://gaelicwizard.me/2023/03/21/got-the-job.html"
+			},
+			{
 				"id": "http://gaelicwizard.micro.blog/2023/02/08/receipts.html",
 				
 				"content_html": "<p><a href=\"https://youtube.com/watch?v=ciStnd9Y2ak\">#receipts</a></p>\n",
@@ -57,8 +65,8 @@
 			{
 				"id": "http://gaelicwizard.micro.blog/2023/01/01/095153.html",
 				
-				"content_html": "<p><img src=\"https://gaelicwizard.me/uploads/2023/82cf50fa35.jpg\" alt=\"79618176-0752-411A-9C7F-6833F515242D.jpg\"></p>\n",
-				"content_text": "\n![79618176-0752-411A-9C7F-6833F515242D.jpg](https://gaelicwizard.me/uploads/2023/82cf50fa35.jpg)\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/67465/2023/82cf50fa35.jpg\" alt=\"79618176-0752-411A-9C7F-6833F515242D.jpg\"></p>\n",
+				"content_text": "\n![79618176-0752-411A-9C7F-6833F515242D.jpg](https://cdn.uploads.micro.blog/67465/2023/82cf50fa35.jpg)\n",
 				"date_published": "2023-01-01T09:51:53-08:00",
 				"url": "https://gaelicwizard.me/2023/01/01/095153.html"
 			},
@@ -66,7 +74,7 @@
 				"id": "http://gaelicwizard.micro.blog/2022/12/20/tapbotstapbotssocialtweetbottapbotssocial-is-this.html",
 				
 				"content_html": "<p>: <a href=\"https://micro.blog/tapbots@tapbots.social\">@tapbots@tapbots.social</a>\n@tweetbot@tapbots.social</p>\n<p>Is this an API-weirdness artifact or just an extremely ahead-of-it’s-time art piece? 🙃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ": [@tapbots@tapbots.social](https://micro.blog/tapbots@tapbots.social)\n@tweetbot@tapbots.social\n\nIs this an API-weirdness artifact or just an extremely ahead-of-it’s-time art piece? 🙃\n\n<img src=\"uploads/2022/f784c85457.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": ": [@tapbots@tapbots.social](https://micro.blog/tapbots@tapbots.social)\n@tweetbot@tapbots.social\n\nIs this an API-weirdness artifact or just an extremely ahead-of-it’s-time art piece? 🙃\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/f784c85457.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-20T14:47:55-08:00",
 				"url": "https://gaelicwizard.me/2022/12/20/tapbotstapbotssocialtweetbottapbotssocial-is-this.html"
 			},
@@ -146,7 +154,7 @@
 				"id": "http://gaelicwizard.micro.blog/2022/11/30/164124.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/9c419cee34.jpg\" width=\"600\" height=\"521\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/9c419cee34.jpg\" width=\"600\" height=\"521\" alt=\"\">\n",
 				"date_published": "2022-11-30T16:41:24-08:00",
 				"url": "https://gaelicwizard.me/2022/11/30/164124.html"
 			},
@@ -234,7 +242,7 @@
 				"id": "http://gaelicwizard.micro.blog/2022/11/20/hey-manton-helpmy.html",
 				
 				"content_html": "<p>Hey <a href=\"https://micro.blog/manton\">@manton</a> <a href=\"https://micro.blog/help\">@help</a>\nMy blog&rsquo;s custom domain is throwing TLS errors and/or nginx errors&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hey [@manton](https://micro.blog/manton) [@help](https://micro.blog/help)\r\nMy blog's custom domain is throwing TLS errors and/or nginx errors...\n\n<img src=\"uploads/2022/a013fbda54.png\" width=\"600\" height=\"406\" alt=\"\">\n",
+				"content_text": "Hey [@manton](https://micro.blog/manton) [@help](https://micro.blog/help)\r\nMy blog's custom domain is throwing TLS errors and/or nginx errors...\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/a013fbda54.png\" width=\"600\" height=\"406\" alt=\"\">\n",
 				"date_published": "2022-11-20T17:00:04-08:00",
 				"url": "https://gaelicwizard.me/2022/11/20/hey-manton-helpmy.html"
 			},
@@ -242,7 +250,7 @@
 				"id": "http://gaelicwizard.micro.blog/2022/11/11/hey-manton-search.html",
 				
 				"content_html": "<p>hey <a href=\"https://micro.blog/manton\">@manton</a> search should accept an activity pub url, not just a user name</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "hey [@manton](https://micro.blog/manton) search should accept an activity pub url, not just a user name\n\n<img src=\"uploads/2022/218da71610.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "hey [@manton](https://micro.blog/manton) search should accept an activity pub url, not just a user name\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/218da71610.png\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-11T18:27:03-08:00",
 				"url": "https://gaelicwizard.me/2022/11/11/hey-manton-search.html"
 			},
@@ -258,7 +266,7 @@
 				"id": "http://gaelicwizard.micro.blog/2022/11/08/150308.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/9149f221aa.jpg\" width=\"600\" height=\"409\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/9149f221aa.jpg\" width=\"600\" height=\"409\" alt=\"\">\n",
 				"date_published": "2022-11-08T14:03:08-08:00",
 				"url": "https://gaelicwizard.me/2022/11/08/150308.html"
 			},
@@ -298,7 +306,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/07/trevor-noah-on.html",
 				
 				"content_html": "<p>: Trevor Noah on taxes and billionaires</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": ": Trevor Noah on taxes and billionaires\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://gaelicwizard.me/uploads/2022/fc891f7aa0.mov\" preload=\"none\"></video>\n",
+				"content_text": ": Trevor Noah on taxes and billionaires\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/67465/2022/fc891f7aa0.mov\" preload=\"none\"></video>\n",
 				"date_published": "2022-05-07T11:22:16-08:00",
 				"url": "https://gaelicwizard.me/2022/05/07/trevor-noah-on.html"
 			},
@@ -306,7 +314,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/07/122107.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/a6677ce42b.jpg\" width=\"516\" height=\"500\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/a6677ce42b.jpg\" width=\"516\" height=\"500\" alt=\"\" />\n",
 				"date_published": "2022-05-07T11:21:07-08:00",
 				"url": "https://gaelicwizard.me/2022/05/07/122107.html"
 			},
@@ -314,7 +322,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/07/122048.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/0d432a352b.jpg\" width=\"600\" height=\"507\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/0d432a352b.jpg\" width=\"600\" height=\"507\" alt=\"\" />\n",
 				"date_published": "2022-05-07T11:20:48-08:00",
 				"url": "https://gaelicwizard.me/2022/05/07/122048.html"
 			},
@@ -394,7 +402,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/04/072428.html",
 				
 				"content_html": "<p>:</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": ":\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://gaelicwizard.me/uploads/2022/68b227b806.mov\" preload=\"none\"></video>\n",
+				"content_text": ":\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/67465/2022/68b227b806.mov\" preload=\"none\"></video>\n",
 				"date_published": "2022-05-04T06:24:28-08:00",
 				"url": "https://gaelicwizard.me/2022/05/04/072428.html"
 			},
@@ -402,7 +410,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/04/i-thought-this.html",
 				
 				"content_html": "<p>…I thought this was a joke at first…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "…I thought this was a joke at first…\n\n<img src=\"uploads/2022/94a773ba29.jpg\" width=\"471\" height=\"600\" alt=\"\" />\n",
+				"content_text": "…I thought this was a joke at first…\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/94a773ba29.jpg\" width=\"471\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-04T06:12:54-08:00",
 				"url": "https://gaelicwizard.me/2022/05/04/i-thought-this.html"
 			},
@@ -434,7 +442,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/03/093825.html",
 				
 				"content_html": "<p><!-- raw HTML omitted -->George Carlin explaining that “pro-life” is just a euphemism for “anti-women”.<!-- raw HTML omitted --></p>\n",
-				"content_text": "<video src=\"https://gaelicwizard.me/uploads/2022/0d519bd9ad.mov\">George Carlin explaining that “pro-life” is just a euphemism for “anti-women”.</video>\n",
+				"content_text": "<video src=\"https://cdn.uploads.micro.blog/67465/2022/0d519bd9ad.mov\">George Carlin explaining that “pro-life” is just a euphemism for “anti-women”.</video>\n",
 				"date_published": "2022-05-03T08:38:25-08:00",
 				"url": "https://gaelicwizard.me/2022/05/03/093825.html"
 			},
@@ -482,7 +490,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/02/064158.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/4a8da8a965.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/4a8da8a965.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-02T05:41:58-08:00",
 				"url": "https://gaelicwizard.me/2022/05/02/064158.html"
 			},
@@ -506,7 +514,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/01/141059.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<video src=\"https://gaelicwizard.me/uploads/2022/f36053de7a.mov\" />\n",
+				"content_text": "<video src=\"https://cdn.uploads.micro.blog/67465/2022/f36053de7a.mov\" />\n",
 				"date_published": "2022-05-01T13:10:59-08:00",
 				"url": "https://gaelicwizard.me/2022/05/01/141059.html"
 			},
@@ -514,7 +522,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/01/133526.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/31975688a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/31975688a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-01T12:35:26-08:00",
 				"url": "https://gaelicwizard.me/2022/05/01/133526.html"
 			},
@@ -522,7 +530,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/05/01/133204.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/07803ea8f2.jpg\" width=\"525\" height=\"525\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/07803ea8f2.jpg\" width=\"525\" height=\"525\" alt=\"\" />\n",
 				"date_published": "2022-05-01T12:32:04-08:00",
 				"url": "https://gaelicwizard.me/2022/05/01/133204.html"
 			},
@@ -665,8 +673,8 @@
 			{
 				"id": "http://gaelicWizard.micro.blog/2022/04/28/101823.html",
 				
-				"content_html": "<p><img src=\"https://gaelicwizard.me/uploads/2022/465b2899f8.jpg\" alt=\"0EFE6181-7D4D-4F00-9C26-2A2EAA17D5DD.jpg\"></p>\n",
-				"content_text": "\n![0EFE6181-7D4D-4F00-9C26-2A2EAA17D5DD.jpg](https://gaelicwizard.me/uploads/2022/465b2899f8.jpg)\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/67465/2022/465b2899f8.jpg\" alt=\"0EFE6181-7D4D-4F00-9C26-2A2EAA17D5DD.jpg\"></p>\n",
+				"content_text": "\n![0EFE6181-7D4D-4F00-9C26-2A2EAA17D5DD.jpg](https://cdn.uploads.micro.blog/67465/2022/465b2899f8.jpg)\n",
 				"date_published": "2022-04-28T09:18:23-08:00",
 				"url": "https://gaelicwizard.me/2022/04/28/101823.html"
 			},
@@ -690,7 +698,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/190018.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/afac667ccb.jpg\" width=\"577\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/afac667ccb.jpg\" width=\"577\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T18:00:18-08:00",
 				"url": "https://gaelicwizard.me/2022/04/27/190018.html"
 			},
@@ -714,7 +722,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/172532.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/91f8b0dd64.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/91f8b0dd64.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T16:25:32-08:00",
 				"url": "https://gaelicwizard.me/2022/04/27/172532.html"
 			},
@@ -722,7 +730,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/172513.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/2ffb293a92.jpg\" width=\"591\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/2ffb293a92.jpg\" width=\"591\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T16:25:13-08:00",
 				"url": "https://gaelicwizard.me/2022/04/27/172513.html"
 			},
@@ -730,7 +738,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/172505.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/219f071627.jpg\" width=\"600\" height=\"365\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/219f071627.jpg\" width=\"600\" height=\"365\" alt=\"\" />\n",
 				"date_published": "2022-04-27T16:25:05-08:00",
 				"url": "https://gaelicwizard.me/2022/04/27/172505.html"
 			},
@@ -746,7 +754,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/123015.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/f6c4b05b66.jpg\" width=\"600\" height=\"266\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/f6c4b05b66.jpg\" width=\"600\" height=\"266\" alt=\"\" />\n",
 				"date_published": "2022-04-27T11:30:15-08:00",
 				"url": "https://gaelicwizard.me/2022/04/27/123015.html"
 			},
@@ -754,7 +762,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/elon-the-sink.html",
 				
 				"content_html": "<p>elon: the sink is small and weird. you should be able to fix your sink the eay you want! \n<em>buys sink</em>\nresult:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "elon: the sink is small and weird. you should be able to fix your sink the eay you want! \r\n*buys sink*\r\nresult:\n\n<img src=\"uploads/2022/3ac7c7ec11.jpg\" width=\"600\" height=\"461\" alt=\"\" />\n",
+				"content_text": "elon: the sink is small and weird. you should be able to fix your sink the eay you want! \r\n*buys sink*\r\nresult:\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/3ac7c7ec11.jpg\" width=\"600\" height=\"461\" alt=\"\" />\n",
 				"date_published": "2022-04-27T11:29:08-08:00",
 				"url": "https://gaelicwizard.me/2022/04/27/elon-the-sink.html"
 			},
@@ -770,7 +778,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/121705.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/3f5030cae5.png\" width=\"548\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/3f5030cae5.png\" width=\"548\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T11:17:05-08:00",
 				"url": "https://gaelicwizard.me/2022/04/27/121705.html"
 			},
@@ -794,7 +802,7 @@
 				"id": "http://gaelicWizard.micro.blog/2022/04/27/121229.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/dab6daa2db.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67465/2022/dab6daa2db.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T11:12:29-08:00",
 				"url": "https://gaelicwizard.me/2022/04/27/121229.html"
 			},
